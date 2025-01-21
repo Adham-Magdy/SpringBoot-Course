@@ -1,0 +1,13 @@
+### Spring Boot Leanring Course
+- Learning About Dependency Injections and Beans , IOC
+- Learning About COnfigurations
+  - Environment variables
+  - Properites configuration
+- Building Spring REST API
+  - CRUD Operations
+  - Controller Layers
+  - ORM Layers
+  - DTO Layers
+  - Testing End-Point
+    - JUnit Testing Framework
+    - Mockito MVC
