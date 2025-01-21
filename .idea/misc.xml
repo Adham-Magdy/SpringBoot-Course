@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/1-Maven/0_example/quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/6_book_list/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/16_pagination/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/4_book_create/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/5_author_list/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/14_book_delete/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/2_author_create/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/8_book_read_one/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/13_author_delete/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/15_nested_objects/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/7_author_read_one/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/10_book_full_update/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/3_author_create_test/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/9_author_full_update/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/12_book_partial_update/database/pom.xml" />
+        <option value="$PROJECT_DIR$/5- Rest_API/11_author_partial_update/database/pom.xml" />
+        <option value="$PROJECT_DIR$/4-Jackson_JSON/1.Web/books/pom.xml" />
+        <option value="$PROJECT_DIR$/4-Jackson_JSON/2. Marshalling/books/pom.xml" />
+        <option value="$PROJECT_DIR$/4-Jackson_JSON/3. UnMarshalling/books/pom.xml" />
+        <option value="$PROJECT_DIR$/4-Jackson_JSON/4. Renaming_Properties/books/pom.xml" />
+        <option value="$PROJECT_DIR$/4-Jackson_JSON/5. Ignoring_Properties/books/pom.xml" />
+        <option value="$PROJECT_DIR$/3-Configuration/1_config_files/quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/3-Configuration/2_environment_variables/quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/3-Configuration/3_configuratonproperties_fresh/pizza/pom.xml" />
+        <option value="$PROJECT_DIR$/3-Configuration/3_configuratonproperties_complete/pizza/pom.xml" />
+        <option value="$PROJECT_DIR$/2-Dependency_Injection/4_autoconfiguration/starter/pom.xml" />
+        <option value="$PROJECT_DIR$/2-Dependency_Injection/0_no_dependency_injection/colours/pom.xml" />
+        <option value="$PROJECT_DIR$/2-Dependency_Injection/2_dependency_injection_config/colours/pom.xml" />
+        <option value="$PROJECT_DIR$/2-Dependency_Injection/3_dependency_injection_annotations/colours/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

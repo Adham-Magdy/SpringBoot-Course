@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/1-Maven/0_example/quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2-Dependency_Injection/0_no_dependency_injection/colours/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2-Dependency_Injection/2_dependency_injection_config/colours/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2-Dependency_Injection/3_dependency_injection_annotations/colours/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2-Dependency_Injection/4_autoconfiguration/starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3-Configuration/1_config_files/quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3-Configuration/2_environment_variables/quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3-Configuration/3_configuratonproperties_complete/pizza/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3-Configuration/3_configuratonproperties_fresh/pizza/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4-Jackson_JSON/1.Web/books/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4-Jackson_JSON/2. Marshalling/books/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4-Jackson_JSON/3. UnMarshalling/books/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4-Jackson_JSON/4. Renaming_Properties/books/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4-Jackson_JSON/5. Ignoring_Properties/books/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/10_book_full_update/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/11_author_partial_update/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/12_book_partial_update/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/13_author_delete/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/14_book_delete/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/15_nested_objects/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/16_pagination/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/2_author_create/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/3_author_create_test/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/4_book_create/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/5_author_list/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/6_book_list/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/7_author_read_one/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/8_book_read_one/database/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/5- Rest_API/9_author_full_update/database/src/main/java" charset="UTF-8" />
+  </component>
+</project>
